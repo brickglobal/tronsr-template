@@ -1,1 +1,1 @@
-Describe the plan to support the community
+We create a social sharing platforms for energy and bandwith rentals. Both create a large and stable rental source while taking advantage of the leisure TRX to maximize profits for the participants.
